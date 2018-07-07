@@ -23,5 +23,16 @@ I wear many hats, but these are some of the things that I do:
  Write code Do things with Linux Play games Brew coffee Drink beer Take photographs, mostly of cats  </description>
     </item>
     
+    <item>
+      <title>Talks</title>
+      <link>/talks/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/talks/</guid>
+      <description>Upcoming Talks Tech Nottingham July 9th 2018 Held at Antenna, Nottingham 18:30.
+Everything is terrible. How can we change that? In this talk we will discuss how speculative fiction magazines can publish fiction &amp;amp; articles to a global audience in a way that is accountable to their readers.
+We will also discuss ways in which we can look at and implement policies and technologies which allow us to be technologists who are accountable for the harm their work may cause and posses the tools to slow the emergence of what the writer Bruce Sterling calls the &amp;ldquo;Gothic Hi-Tech&amp;rdquo;; a world in which technology is brilliant but everything is dying.</description>
+    </item>
+    
   </channel>
 </rss>
