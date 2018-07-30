@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2018 - Will Ellwood</copyright>
-    <lastBuildDate>Sun, 08 Jul 2018 17:05:19 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jul 2018 21:24:53 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Community</title>
       <link>/tags/community/</link>
-      <pubDate>Sun, 08 Jul 2018 17:05:19 +0100</pubDate>
+      <pubDate>Mon, 30 Jul 2018 21:24:53 +0100</pubDate>
       
       <guid>/tags/community/</guid>
       <description></description>
@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Retrospective</title>
+      <link>/tags/retrospective/</link>
+      <pubDate>Mon, 30 Jul 2018 21:24:53 +0100</pubDate>
+      
+      <guid>/tags/retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Short Fiction</title>
       <link>/tags/short-fiction/</link>
       <pubDate>Wed, 03 Jan 2018 21:20:29 +0000</pubDate>
@@ -42,7 +51,7 @@
     <item>
       <title>Talks</title>
       <link>/tags/talks/</link>
-      <pubDate>Sun, 08 Jul 2018 17:05:19 +0100</pubDate>
+      <pubDate>Mon, 30 Jul 2018 21:24:53 +0100</pubDate>
       
       <guid>/tags/talks/</guid>
       <description></description>
