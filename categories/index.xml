@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Will-Ellwood.com</title>
-    <link>www.will-ellwood.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Will-Ellwood.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2018 - Will Ellwood</copyright>
     <lastBuildDate>Sun, 02 Sep 2018 17:40:55 +0100</lastBuildDate>
     
-	<atom:link href="www.will-ellwood.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog</title>
-      <link>www.will-ellwood.com/categories/blog/</link>
+      <link>/categories/blog/</link>
       <pubDate>Sun, 02 Sep 2018 17:40:55 +0100</pubDate>
       
-      <guid>www.will-ellwood.com/categories/blog/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pages</title>
-      <link>www.will-ellwood.com/categories/pages/</link>
+      <link>/categories/pages/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>www.will-ellwood.com/categories/pages/</guid>
+      <guid>/categories/pages/</guid>
       <description></description>
     </item>
     
