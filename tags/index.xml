@@ -2,76 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Will-Ellwood.com</title>
-    <link>/tags/</link>
+    <link>www.will-ellwood.com/tags/</link>
     <description>Recent content in Tags on Will-Ellwood.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - Will Ellwood</copyright>
     <lastBuildDate>Sun, 30 Dec 2018 17:30:42 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.will-ellwood.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2018</title>
-      <link>/tags/2018/</link>
+      <link>www.will-ellwood.com/tags/2018/</link>
       <pubDate>Sun, 30 Dec 2018 17:30:42 +0000</pubDate>
       
-      <guid>/tags/2018/</guid>
+      <guid>www.will-ellwood.com/tags/2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Community</title>
-      <link>/tags/community/</link>
-      <pubDate>Mon, 30 Jul 2018 21:24:53 +0100</pubDate>
-      
-      <guid>/tags/community/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fiction</title>
-      <link>/tags/fiction/</link>
-      <pubDate>Wed, 03 Jan 2018 21:20:29 +0000</pubDate>
-      
-      <guid>/tags/fiction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retrospective</title>
-      <link>/tags/retrospective/</link>
-      <pubDate>Mon, 30 Jul 2018 21:24:53 +0100</pubDate>
-      
-      <guid>/tags/retrospective/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Short Fiction</title>
-      <link>/tags/short-fiction/</link>
-      <pubDate>Wed, 03 Jan 2018 21:20:29 +0000</pubDate>
-      
-      <guid>/tags/short-fiction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talks</title>
-      <link>/tags/talks/</link>
-      <pubDate>Mon, 30 Jul 2018 21:24:53 +0100</pubDate>
-      
-      <guid>/tags/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weeknotes</title>
-      <link>/tags/weeknotes/</link>
+      <title>weeknotes</title>
+      <link>www.will-ellwood.com/tags/weeknotes/</link>
       <pubDate>Sun, 02 Sep 2018 17:40:55 +0100</pubDate>
       
-      <guid>/tags/weeknotes/</guid>
+      <guid>www.will-ellwood.com/tags/weeknotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>community</title>
+      <link>www.will-ellwood.com/tags/community/</link>
+      <pubDate>Mon, 30 Jul 2018 21:24:53 +0100</pubDate>
+      
+      <guid>www.will-ellwood.com/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retrospective</title>
+      <link>www.will-ellwood.com/tags/retrospective/</link>
+      <pubDate>Mon, 30 Jul 2018 21:24:53 +0100</pubDate>
+      
+      <guid>www.will-ellwood.com/tags/retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>www.will-ellwood.com/tags/talks/</link>
+      <pubDate>Mon, 30 Jul 2018 21:24:53 +0100</pubDate>
+      
+      <guid>www.will-ellwood.com/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fiction</title>
+      <link>www.will-ellwood.com/tags/fiction/</link>
+      <pubDate>Wed, 03 Jan 2018 21:20:29 +0000</pubDate>
+      
+      <guid>www.will-ellwood.com/tags/fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>short-fiction</title>
+      <link>www.will-ellwood.com/tags/short-fiction/</link>
+      <pubDate>Wed, 03 Jan 2018 21:20:29 +0000</pubDate>
+      
+      <guid>www.will-ellwood.com/tags/short-fiction/</guid>
       <description></description>
     </item>
     

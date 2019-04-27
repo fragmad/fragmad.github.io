@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Will-Ellwood.com</title>
-    <link>/categories/pages/</link>
-    <description>Recent content in Pages on Will-Ellwood.com</description>
+    <title>pages on Will-Ellwood.com</title>
+    <link>www.will-ellwood.com/categories/pages/</link>
+    <description>Recent content in pages on Will-Ellwood.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <copyright>Copyright &amp;copy; 2019 - Will Ellwood</copyright>
     <lastBuildDate>Sat, 17 Nov 2018 17:55:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.will-ellwood.com/categories/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Status</title>
-      <link>/status/</link>
+      <link>www.will-ellwood.com/status/</link>
       <pubDate>Sat, 17 Nov 2018 17:55:00 +0000</pubDate>
       
-      <guid>/status/</guid>
-      <description> Updated March 10th 2019.
-Currently Listening To  Summoning (https://summoning.bandcamp.com/) The Techno Bunker playlist on Spotify  Currently Reading  Lanark by Alister Grey (slowly, on pause really) The Odyssey translated by Robert Fagles Milkman by Anna Burns  Currently Playing  Red Dead Redemption II Hollow Knight Shadow of the Colossus  Current Projects  Learning Go Making Strange Horizons faster 500loc Cache Server Some fiction #photoadaychallenge on Instagram  </description>
+      <guid>www.will-ellwood.com/status/</guid>
+      <description> Updated April 27th 2019.
+Currently Listening To  Summoning (https://summoning.bandcamp.com/) The Techno Bunker playlist on Spotify  Currently Reading  Lanark by Alister Grey (slowly, on pause really) The Odyssey translated by Robert Fagles James Joyce&amp;rsquo;s Ulysses: A Study by Stuart Gilbert  Currently Playing  Final Fantasy X Hollow Knight Celeste (catching those last strawberries)  Current Projects  Learning the Go programming language Making Strange Horizons faster Some fiction #photoadaychallenge on Instagram  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>www.will-ellwood.com/about/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/about/</guid>
+      <guid>www.will-ellwood.com/about/</guid>
       <description>Hi, I&amp;rsquo;m Will.
 I wear many hats, but these are some of the things that I do:
  Write code Do things with Linux Play games Brew coffee Drink beer Take photographs, mostly of cats  </description>
@@ -35,10 +34,10 @@ I wear many hats, but these are some of the things that I do:
     
     <item>
       <title>Talks</title>
-      <link>/talks/</link>
+      <link>www.will-ellwood.com/talks/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/talks/</guid>
+      <guid>www.will-ellwood.com/talks/</guid>
       <description>Upcoming Talks Past Talks Tech Nottingham July 9th 2018 Held at Antenna, Nottingham 18:30.
 Everything is terrible. How can we change that? In this talk we will discuss how speculative fiction magazines can publish fiction &amp;amp; articles to a global audience in a way that is accountable to their readers.
 We will also discuss ways in which we can look at and implement policies and technologies which allow us to be technologists who are accountable for the harm their work may cause and posses the tools to slow the emergence of what the writer Bruce Sterling calls the &amp;ldquo;Gothic Hi-Tech&amp;rdquo;; a world in which technology is brilliant but everything is dying.</description>
