@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signals on Will-Ellwood.com</title>
+    <link>www.will-ellwood.com/signal/</link>
+    <description>Recent content in Signals on Will-Ellwood.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2019 - Will Ellwood</copyright>
+    <lastBuildDate>Tue, 16 Apr 2019 22:20:06 +0100</lastBuildDate>
+    
+	<atom:link href="www.will-ellwood.com/signal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Signal</title>
+      <link>www.will-ellwood.com/signal/test-signal/</link>
+      <pubDate>Tue, 16 Apr 2019 22:20:06 +0100</pubDate>
+      
+      <guid>www.will-ellwood.com/signal/test-signal/</guid>
+      <description>The time is 22:23 on a Tuesday evening. I am sat on the sofa with a mug of &amp;ldquo;sleepy tea&amp;rdquo;. My cat has abandoned me for the comfort of the bed. Truly I am reaching middle age in the most pathetic way possible. And I&amp;rsquo;m writing some sample content for a hidden section of my website instead of heading upstairs to join the cat because apparently this is more important.</description>
+    </item>
+    
+  </channel>
+</rss>
