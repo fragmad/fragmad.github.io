@@ -8,7 +8,12 @@
   </url>
   
   <url>
-    <loc>/status/</loc>
+    <loc>/</loc>
+    <lastmod>2018-11-17T17:55:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/now/</loc>
     <lastmod>2018-11-17T17:55:00+00:00</lastmod>
   </url>
   
@@ -23,50 +28,53 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-08-02T19:56:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/signal/granite-city-one/</loc>
+    <lastmod>2019-08-02T19:56:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/hidden-signal/</loc>
+    <lastmod>2019-08-02T19:56:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/signal/</loc>
+    <lastmod>2019-08-02T19:56:42+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/barzun-process/</loc>
     <lastmod>2019-05-12T15:20:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-05-12T15:20:27+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-05-12T15:20:27+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-05-12T15:20:27+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/blog/</loc>
     <lastmod>2019-05-12T15:20:27+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/fiction/</loc>
     <lastmod>2019-05-12T15:20:27+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/short-fiction/</loc>
     <lastmod>2019-05-12T15:20:27+01:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-12T15:20:27+01:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/2018/</loc>
     <lastmod>2018-12-30T17:30:42+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -75,9 +83,13 @@
   </url>
   
   <url>
+    <loc>/tags/now/</loc>
+    <lastmod>2018-11-17T17:55:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/pages/</loc>
     <lastmod>2018-11-17T17:55:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -88,7 +100,11 @@
   <url>
     <loc>/tags/weeknotes/</loc>
     <lastmod>2018-09-02T17:40:55+01:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/community/</loc>
+    <lastmod>2018-07-30T21:24:53+01:00</lastmod>
   </url>
   
   <url>
@@ -97,21 +113,13 @@
   </url>
   
   <url>
-    <loc>/tags/community/</loc>
-    <lastmod>2018-07-30T21:24:53+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/retrospective/</loc>
     <lastmod>2018-07-30T21:24:53+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/talks/</loc>
     <lastmod>2018-07-30T21:24:53+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

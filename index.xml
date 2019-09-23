@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Will-Ellwood.com</title>
+    <title>Home on Will-Ellwood.com</title>
     <link>/</link>
-    <description>Recent content on Will-Ellwood.com</description>
+    <description>Recent content in Home on Will-Ellwood.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Will Ellwood</copyright>
-    <lastBuildDate>Sun, 12 May 2019 15:20:27 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 17 Nov 2018 17:55:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Status</title>
-      <link>/status/</link>
+      <title>Now</title>
+      <link>/now/</link>
       <pubDate>Sat, 17 Nov 2018 17:55:00 +0000</pubDate>
       
-      <guid>/status/</guid>
-      <description> Updated April 27th 2019.
-Currently Listening To  Summoning (https://summoning.bandcamp.com/) The Techno Bunker playlist on Spotify  Currently Reading  Lanark by Alister Grey (slowly, on pause really) The Odyssey translated by Robert Fagles James Joyce&amp;rsquo;s Ulysses: A Study by Stuart Gilbert  Currently Playing  Final Fantasy X Hollow Knight Celeste (catching those last strawberries)  Current Projects  Learning the Go programming language Making Strange Horizons faster Some fiction #photoadaychallenge on Instagram  </description>
+      <guid>/now/</guid>
+      <description>As of September 23rd 2019:
+ I have just moved to Aberdeen, Scotland I am looking to spend a lot more time writing prose and code for myself I am still listening to a lot of Earth  </description>
     </item>
     
     <item>
@@ -38,9 +38,19 @@ I wear many hats, but these are some of the things that I do:
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/talks/</guid>
-      <description>Upcoming Talks Past Talks Tech Nottingham July 9th 2018 Held at Antenna, Nottingham 18:30.
-Everything is terrible. How can we change that? In this talk we will discuss how speculative fiction magazines can publish fiction &amp;amp; articles to a global audience in a way that is accountable to their readers.
-We will also discuss ways in which we can look at and implement policies and technologies which allow us to be technologists who are accountable for the harm their work may cause and posses the tools to slow the emergence of what the writer Bruce Sterling calls the &amp;ldquo;Gothic Hi-Tech&amp;rdquo;; a world in which technology is brilliant but everything is dying.</description>
+      <description>Upcoming Talks Past Talks [DevOps Notts]() August 21st 2019 Held at Rebel Recruiters, Nottingham.
+A talk and demonstration of Test Driven Infrastructure development using Molecule to control Docker, Ansible, TestInfra, and an assortment of linting tools.
+Tech Nottingham July 9th 2018 Held at Antenna, Nottingham 18:30.
+Everything is terrible. How can we change that? In this talk we will discuss how speculative fiction magazines can publish fiction &amp;amp; articles to a global audience in a way that is accountable to their readers.</description>
+    </item>
+    
+    <item>
+      <title>Granite City One</title>
+      <link>/signal/granite-city-one/</link>
+      <pubDate>Fri, 02 Aug 2019 19:56:42 +0100</pubDate>
+      
+      <guid>/signal/granite-city-one/</guid>
+      <description>I&amp;rsquo;m sat in The Distilling House, the bar past security at Aberdeen Airport. There&amp;rsquo;s a last of a glass of Glen Garioch and the remains of a steak sandwich next to me. Jen &amp;amp; I have just visited the city for two nights so we could put boots on the ground here for the first time in five years. (This is our second visit.) She spent about three hours taking with colleagues at her new job, and we both looked at a house to rent.</description>
     </item>
     
     <item>
