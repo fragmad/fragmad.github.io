@@ -1,23 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Signals on Will-Ellwood.com</title>
-    <link>/signal/</link>
+    <link>www.will-ellwood.com/signal/</link>
     <description>Recent content in Signals on Will-Ellwood.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Will Ellwood</copyright>
-    <lastBuildDate>Fri, 02 Aug 2019 19:56:42 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 18:26:17 +0000</lastBuildDate>
     
-	<atom:link href="/signal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.will-ellwood.com/signal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Finally</title>
+      <link>www.will-ellwood.com/signal/finally/</link>
+      <pubDate>Sun, 01 Dec 2019 18:26:17 +0000</pubDate>
+      
+      <guid>www.will-ellwood.com/signal/finally/</guid>
+      <description>Finally!
+I have finally finished a version of my site’s theme which I’m happy with. It isn’t anything special and it isn’t anything fancy, but it’s mine, so falls firmly into the if I break it I fix it way of things, which is exactly what I want this site.
+The week I’d intended to spend working on the theme was interrupted by working on another site I manage and then week on-call.</description>
+    </item>
+    
+    <item>
+      <title>Theme Delays</title>
+      <link>www.will-ellwood.com/signal/theme-delays/</link>
+      <pubDate>Mon, 04 Nov 2019 21:53:50 +0000</pubDate>
+      
+      <guid>www.will-ellwood.com/signal/theme-delays/</guid>
+      <description>I made a mistake when creating this category of posts. It&#39;s stuck inside a branch I don&#39;t want to commit yet and can&#39;t really be bothered to untangle the mess of files. I&#39;m meant to be working on a new theme for this site and it is taking longer than anticipated because I only put the odd half hour or so in every few weeks.
+The same pattern of occasional short bursts is true with my attempts at writing fiction.</description>
+    </item>
+    
+    <item>
       <title>Granite City One</title>
-      <link>/signal/granite-city-one/</link>
+      <link>www.will-ellwood.com/signal/granite-city-one/</link>
       <pubDate>Fri, 02 Aug 2019 19:56:42 +0100</pubDate>
       
-      <guid>/signal/granite-city-one/</guid>
-      <description>I&amp;rsquo;m sat in The Distilling House, the bar past security at Aberdeen Airport. There&amp;rsquo;s a last of a glass of Glen Garioch and the remains of a steak sandwich next to me. Jen &amp;amp; I have just visited the city for two nights so we could put boots on the ground here for the first time in five years. (This is our second visit.) She spent about three hours taking with colleagues at her new job, and we both looked at a house to rent.</description>
+      <guid>www.will-ellwood.com/signal/granite-city-one/</guid>
+      <description>I&#39;m sat in The Distilling House, the bar past security at Aberdeen Airport. There&#39;s a last of a glass of Glen Garioch and the remains of a steak sandwich next to me. Jen &amp;amp; I have just visited the city for two nights so we could put boots on the ground here for the first time in five years. (This is our second visit.) She spent about three hours taking with colleagues at her new job, and we both looked at a house to rent.</description>
+    </item>
+    
+    <item>
+      <title>Test Signal</title>
+      <link>www.will-ellwood.com/signal/test-signal/</link>
+      <pubDate>Tue, 16 Apr 2019 22:20:06 +0100</pubDate>
+      
+      <guid>www.will-ellwood.com/signal/test-signal/</guid>
+      <description>The time is 22:23 on a Tuesday evening. I am sat on the sofa with a mug of &amp;ldquo;sleepy tea&amp;rdquo;. My cat has abandoned me for the comfort of the bed. Truly I am reaching middle age in the most pathetic way possible. And I&#39;m writing some sample content for a hidden section of my website instead of heading upstairs to join the cat because apparently this is more important.</description>
     </item>
     
   </channel>

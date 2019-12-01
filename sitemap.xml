@@ -1,144 +1,159 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/</loc>
+    <loc>www.will-ellwood.com/posts/</loc>
     <lastmod>2019-09-23T12:01:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>www.will-ellwood.com/</loc>
     <lastmod>2018-11-17T17:55:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/now/</loc>
+    <loc>www.will-ellwood.com/now/</loc>
     <lastmod>2018-11-17T17:55:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>www.will-ellwood.com/about/</loc>
     <lastmod>2018-01-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talks/</loc>
+    <loc>www.will-ellwood.com/talks/</loc>
     <lastmod>2018-01-01T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/aberdeen-i/</loc>
+    <loc>www.will-ellwood.com/signal/finally/</loc>
+    <lastmod>2019-12-01T18:26:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.will-ellwood.com/signal/</loc>
+    <lastmod>2019-12-01T18:26:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.will-ellwood.com/categories/</loc>
+    <lastmod>2019-11-04T21:53:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.will-ellwood.com/categories/hidden-signal/</loc>
+    <lastmod>2019-11-04T21:53:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.will-ellwood.com/signal/theme-delays/</loc>
+    <lastmod>2019-11-04T21:53:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.will-ellwood.com/posts/aberdeen-i/</loc>
     <lastmod>2019-09-23T12:01:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/blog/</loc>
+    <loc>www.will-ellwood.com/categories/blog/</loc>
     <lastmod>2019-09-23T12:01:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>www.will-ellwood.com/tags/life/</loc>
     <lastmod>2019-09-23T12:01:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/life/</loc>
+    <loc>www.will-ellwood.com/tags/</loc>
     <lastmod>2019-09-23T12:01:37+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-09-23T12:01:37+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/signal/granite-city-one/</loc>
+    <loc>www.will-ellwood.com/signal/granite-city-one/</loc>
     <lastmod>2019-08-02T19:56:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/hidden-signal/</loc>
-    <lastmod>2019-08-02T19:56:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/signal/</loc>
-    <lastmod>2019-08-02T19:56:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/barzun-process/</loc>
+    <loc>www.will-ellwood.com/posts/barzun-process/</loc>
     <lastmod>2019-05-12T15:20:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/fiction/</loc>
+    <loc>www.will-ellwood.com/tags/fiction/</loc>
     <lastmod>2019-05-12T15:20:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/short-fiction/</loc>
+    <loc>www.will-ellwood.com/tags/short-fiction/</loc>
     <lastmod>2019-05-12T15:20:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/2018/</loc>
+    <loc>www.will-ellwood.com/signal/test-signal/</loc>
+    <lastmod>2019-04-16T22:20:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.will-ellwood.com/tags/2018/</loc>
     <lastmod>2018-12-30T17:30:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2018-review/</loc>
+    <loc>www.will-ellwood.com/posts/2018-review/</loc>
     <lastmod>2018-12-30T17:30:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/now/</loc>
+    <loc>www.will-ellwood.com/tags/now/</loc>
     <lastmod>2018-11-17T17:55:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/pages/</loc>
+    <loc>www.will-ellwood.com/categories/pages/</loc>
     <lastmod>2018-11-17T17:55:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/week35/</loc>
+    <loc>www.will-ellwood.com/posts/week35/</loc>
     <lastmod>2018-09-02T17:40:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/weeknotes/</loc>
+    <loc>www.will-ellwood.com/tags/weeknotes/</loc>
     <lastmod>2018-09-02T17:40:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/community/</loc>
+    <loc>www.will-ellwood.com/tags/community/</loc>
     <lastmod>2018-07-30T21:24:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/devils/</loc>
+    <loc>www.will-ellwood.com/posts/devils/</loc>
     <lastmod>2018-07-30T21:24:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/retrospective/</loc>
+    <loc>www.will-ellwood.com/tags/retrospective/</loc>
     <lastmod>2018-07-30T21:24:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/talks/</loc>
+    <loc>www.will-ellwood.com/tags/talks/</loc>
     <lastmod>2018-07-30T21:24:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/small-steps-better-world/</loc>
+    <loc>www.will-ellwood.com/posts/small-steps-better-world/</loc>
     <lastmod>2018-07-08T17:05:19+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/44-fields/</loc>
+    <loc>www.will-ellwood.com/posts/44-fields/</loc>
     <lastmod>2018-01-03T21:20:29+00:00</lastmod>
   </url>
   

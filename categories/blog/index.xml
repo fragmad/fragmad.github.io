@@ -1,81 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Will-Ellwood.com</title>
-    <link>/categories/blog/</link>
+    <link>www.will-ellwood.com/categories/blog/</link>
     <description>Recent content in blog on Will-Ellwood.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Will Ellwood</copyright>
     <lastBuildDate>Mon, 23 Sep 2019 12:01:37 +0100</lastBuildDate>
     
-	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.will-ellwood.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Abeerdeen I</title>
-      <link>/posts/aberdeen-i/</link>
+      <title>Aberdeen I</title>
+      <link>www.will-ellwood.com/posts/aberdeen-i/</link>
       <pubDate>Mon, 23 Sep 2019 12:01:37 +0100</pubDate>
       
-      <guid>/posts/aberdeen-i/</guid>
-      <description>Last week I moved northwards to Aberdeen, Scotland. This has been on the cards for a couple of months now, ever since my partner was offered a job in the city. I had intended to write more about the move, but I didn&amp;rsquo;t really have the capacity to until now.
+      <guid>www.will-ellwood.com/posts/aberdeen-i/</guid>
+      <description>Last week I moved northwards to Aberdeen, Scotland. This has been on the cards for a couple of months now, ever since my partner was offered a job in the city. I had intended to write more about the move, but I didn&#39;t really have the capacity to until now.
 The opportunity J has here is significant, so had to be taken, even if it means leaving behind the communities we were involved with, like the Speculators and Tech Nottingham.</description>
     </item>
     
     <item>
       <title>Barzun Process</title>
-      <link>/posts/barzun-process/</link>
+      <link>www.will-ellwood.com/posts/barzun-process/</link>
       <pubDate>Sun, 12 May 2019 15:20:27 +0100</pubDate>
       
-      <guid>/posts/barzun-process/</guid>
+      <guid>www.will-ellwood.com/posts/barzun-process/</guid>
       <description>Another year, another short story published. This time the story is called Barzun Process and is available to purchase from Open Polyversity in Open Polyversity, which is available from their Lulu page.
-Maybe I&amp;rsquo;ll write some detailed notes about the story later, but it&amp;rsquo;s a weird story for weird people about cyborgs &amp;amp; love. It massively inspired by narrative principles expound by the Nier: Automata director Yoko Taro.</description>
+Maybe I&#39;ll write some detailed notes about the story later, but it&#39;s a weird story for weird people about cyborgs &amp;amp; love. It massively inspired by narrative principles expound by the Nier: Automata director Yoko Taro.</description>
     </item>
     
     <item>
       <title>2018: The Year In Review</title>
-      <link>/posts/2018-review/</link>
+      <link>www.will-ellwood.com/posts/2018-review/</link>
       <pubDate>Sun, 30 Dec 2018 17:30:42 +0000</pubDate>
       
-      <guid>/posts/2018-review/</guid>
-      <description>Prelude For many of my friends 2018 was another cruel year. Personally, I survived without too much damage, but even still I&amp;rsquo;m fearing 2019, with the threat of a cliff edge Brexit coming a decade after the financial crash which ruined my twenties. Still, we cannot change the past and Brexit, along with other upcoming political disasters, are existential problems, so let us instead review the moments of 2018.</description>
+      <guid>www.will-ellwood.com/posts/2018-review/</guid>
+      <description>Prelude For many of my friends 2018 was another cruel year. Personally, I survived without too much damage, but even still I&#39;m fearing 2019, with the threat of a cliff edge Brexit coming a decade after the financial crash which ruined my twenties. Still, we cannot change the past and Brexit, along with other upcoming political disasters, are existential problems, so let us instead review the moments of 2018.
+The Good   I attend Hack24 in March.</description>
     </item>
     
     <item>
       <title>Week 35, 2018</title>
-      <link>/posts/week35/</link>
+      <link>www.will-ellwood.com/posts/week35/</link>
       <pubDate>Sun, 02 Sep 2018 17:40:55 +0100</pubDate>
       
-      <guid>/posts/week35/</guid>
-      <description>Everything is awful. Our planet and societies are facing numerous ecological collapses inflicted by humanity. There’s no escape in the face of post-capitalism flattening all cultural consumption into a desert of mega-franchises. All we can do is record our activities and perceptions in the desperate hope of being able to reconstruct the a place outside of what Alexei Yurchak called “HyperNormalisation”. This is my attempt for week 35, 2018.</description>
+      <guid>www.will-ellwood.com/posts/week35/</guid>
+      <description>Everything is awful. Our planet and societies are facing numerous ecological collapses inflicted by humanity. There’s no escape in the face of post-capitalism flattening all cultural consumption into a desert of mega-franchises. All we can do is record our activities and perceptions in the desperate hope of being able to reconstruct the a place outside of what Alexei Yurchak called “HyperNormalisation”. This is my attempt for week 35, 2018.
+Status &amp;amp; Plan (Monday)  It is a bank holiday weekend here in the UK.</description>
     </item>
     
     <item>
       <title>DEVIL&#39;S FOOL</title>
-      <link>/posts/devils/</link>
+      <link>www.will-ellwood.com/posts/devils/</link>
       <pubDate>Mon, 30 Jul 2018 21:24:53 +0100</pubDate>
       
-      <guid>/posts/devils/</guid>
+      <guid>www.will-ellwood.com/posts/devils/</guid>
       <description>I am writing this far later than intended because life interrupted. On July 9th I gave a talk at Tech Nottingham called “Small Steps To A Better World: Content Warnings And Socially Responsible Practice”. There is an abstract on the talks page of this site, but the quick summary is the implementation of trigger warnings at Strange Horizons and why people in tech should be good people. The talk went well.</description>
     </item>
     
     <item>
       <title>SMALL STEPS TO A BETTER WORLD</title>
-      <link>/posts/small-steps-better-world/</link>
+      <link>www.will-ellwood.com/posts/small-steps-better-world/</link>
       <pubDate>Sun, 08 Jul 2018 17:05:19 +0100</pubDate>
       
-      <guid>/posts/small-steps-better-world/</guid>
+      <guid>www.will-ellwood.com/posts/small-steps-better-world/</guid>
       <description>I have worked in Nottingham for almost two years. Due to that, I have been able to attend events organised by Tech Nottingham. Tech Nottingham is a community organisation run by Andrew &amp;amp; Emma Seward, with the mission of making Nottingham a better place to live, and to work in technology. As part of that, they organise and facilitate events each month, ranging from Women in Tech to a breakfast event called Tech on Toast (which starts at a time in the morning far too ungodly for a commuter from Leicester to attend).</description>
     </item>
     
     <item>
       <title>44 Fields</title>
-      <link>/posts/44-fields/</link>
+      <link>www.will-ellwood.com/posts/44-fields/</link>
       <pubDate>Wed, 03 Jan 2018 21:20:29 +0000</pubDate>
       
-      <guid>/posts/44-fields/</guid>
+      <guid>www.will-ellwood.com/posts/44-fields/</guid>
       <description>My short story 44 Fields is now available to read at Big Echo. You can read it here.
 If you are interested I have collected a few thoughts here:
- The opening image of a field of barley derives from the Ken Loach film &amp;ldquo;The Wind that Shakes the Barley&amp;rdquo; and my defuse memories of watching it almost a decade ago. Other films that come to mind with long grasses and war include Gladiator and The Thin Red Line.</description>
+  The opening image of a field of barley derives from the Ken Loach film &amp;ldquo;The Wind that Shakes the Barley&amp;rdquo; and my defuse memories of watching it almost a decade ago. Other films that come to mind with long grasses and war include Gladiator and The Thin Red Line.</description>
     </item>
     
   </channel>

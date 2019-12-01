@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pages on Will-Ellwood.com</title>
-    <link>/categories/pages/</link>
+    <link>www.will-ellwood.com/categories/pages/</link>
     <description>Recent content in pages on Will-Ellwood.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Will Ellwood</copyright>
     <lastBuildDate>Sat, 17 Nov 2018 17:55:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.will-ellwood.com/categories/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Now</title>
-      <link>/now/</link>
+      <link>www.will-ellwood.com/now/</link>
       <pubDate>Sat, 17 Nov 2018 17:55:00 +0000</pubDate>
       
-      <guid>/now/</guid>
+      <guid>www.will-ellwood.com/now/</guid>
       <description>As of September 23rd 2019:
  I have just moved to Aberdeen, Scotland I am looking to spend a lot more time writing prose and code for myself I am still listening to a lot of Earth  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>www.will-ellwood.com/about/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/about/</guid>
-      <description>Hi, I&amp;rsquo;m Will.
+      <guid>www.will-ellwood.com/about/</guid>
+      <description>Hi, I&#39;m Will.
 I wear many hats, but these are some of the things that I do:
  Write code Do things with Linux Play games Brew coffee Drink beer Take photographs, mostly of cats  </description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>/talks/</link>
+      <link>www.will-ellwood.com/talks/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
-      <guid>/talks/</guid>
+      <guid>www.will-ellwood.com/talks/</guid>
       <description>Upcoming Talks Past Talks DevOps Notts August 21st 2019 Held at Rebel Recruiters, Nottingham.
 A talk and demonstration of Test Driven Infrastructure development using Molecule to control Docker, Ansible, TestInfra, and an assortment of linting tools.
 Tech Nottingham July 9th 2018 Held at Antenna, Nottingham 18:30.
