@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>life on Will-Ellwood.com</title>
-    <link>www.will-ellwood.com/tags/life/</link>
+    <link>/tags/life/</link>
     <description>Recent content in life on Will-Ellwood.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Will Ellwood</copyright>
     <lastBuildDate>Mon, 23 Sep 2019 12:01:37 +0100</lastBuildDate>
     
-	<atom:link href="www.will-ellwood.com/tags/life/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Aberdeen I</title>
-      <link>www.will-ellwood.com/posts/aberdeen-i/</link>
+      <link>/posts/aberdeen-i/</link>
       <pubDate>Mon, 23 Sep 2019 12:01:37 +0100</pubDate>
       
-      <guid>www.will-ellwood.com/posts/aberdeen-i/</guid>
+      <guid>/posts/aberdeen-i/</guid>
       <description>Last week I moved northwards to Aberdeen, Scotland. This has been on the cards for a couple of months now, ever since my partner was offered a job in the city. I had intended to write more about the move, but I didn&#39;t really have the capacity to until now.
 The opportunity J has here is significant, so had to be taken, even if it means leaving behind the communities we were involved with, like the Speculators and Tech Nottingham.</description>
     </item>

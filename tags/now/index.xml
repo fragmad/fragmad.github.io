@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>now on Will-Ellwood.com</title>
-    <link>www.will-ellwood.com/tags/now/</link>
+    <link>/tags/now/</link>
     <description>Recent content in now on Will-Ellwood.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Will Ellwood</copyright>
     <lastBuildDate>Sat, 17 Nov 2018 17:55:00 +0000</lastBuildDate>
     
-	<atom:link href="www.will-ellwood.com/tags/now/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/now/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Now</title>
-      <link>www.will-ellwood.com/now/</link>
+      <link>/now/</link>
       <pubDate>Sat, 17 Nov 2018 17:55:00 +0000</pubDate>
       
-      <guid>www.will-ellwood.com/now/</guid>
+      <guid>/now/</guid>
       <description>As of September 23rd 2019:
  I have just moved to Aberdeen, Scotland I am looking to spend a lot more time writing prose and code for myself I am still listening to a lot of Earth  </description>
     </item>
