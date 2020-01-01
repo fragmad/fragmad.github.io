@@ -17,7 +17,9 @@
       <pubDate>Sat, 17 Nov 2018 17:55:00 +0000</pubDate>
       
       <guid>/now/</guid>
-      <description>As of September 23rd 2019:
+      <description>This is a &amp;ldquo;now page&amp;rdquo;, and I think they are a good idea.
+As of January 1st 2020:
+ I am getting used to working remotely such that it&#39;s now normal for me I have started rock climbing indoors again and am planning some easy adventures for the spring  As of September 23rd 2019:
  I have just moved to Aberdeen, Scotland I am looking to spend a lot more time writing prose and code for myself I am still listening to a lot of Earth  </description>
     </item>
     
@@ -38,10 +40,10 @@ I wear many hats, but these are some of the things that I do:
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/talks/</guid>
-      <description>Upcoming Talks Past Talks DevOps Notts August 21st 2019 Held at Rebel Recruiters, Nottingham.
-A talk and demonstration of Test Driven Infrastructure development using Molecule to control Docker, Ansible, TestInfra, and an assortment of linting tools.
-Tech Nottingham July 9th 2018 Held at Antenna, Nottingham 18:30.
-Everything is terrible. How can we change that? In this talk we will discuss how speculative fiction magazines can publish fiction &amp;amp; articles to a global audience in a way that is accountable to their readers.</description>
+      <description>Upcoming Talks Aberdeen Python User&#39;s Group January 8th 2020 Poetry in Python Held at Code Base One, Aberdeen.
+An introduction to Poetry, a Python tool to manage packaing and dependecy management that is really quite beautiful.
+Past Talks DevOps Notts August 21st 2019 Test Driven Infrastructure with Molecule Held at Rebel Recruiters, Nottingham.
+A talk and demonstration of Test Driven Infrastructure development using Molecule to control Docker, Ansible, TestInfra, and an assortment of linting tools.</description>
     </item>
     
   </channel>
