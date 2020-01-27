@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/log/</loc>
+    <lastmod>2020-01-21T17:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
     <lastmod>2019-09-23T12:01:37+01:00</lastmod>
   </url>
@@ -29,7 +34,22 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-01-01T15:46:45+00:00</lastmod>
+    <lastmod>2020-01-21T17:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/log/</loc>
+    <lastmod>2020-01-21T17:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/pages/</loc>
+    <lastmod>2020-01-21T17:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-21T17:15:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,11 +93,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-09-23T12:01:37+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/signal/granite-city-one/</loc>
     <lastmod>2019-08-02T19:56:42+01:00</lastmod>
   </url>
@@ -114,11 +129,6 @@
   
   <url>
     <loc>/tags/now/</loc>
-    <lastmod>2018-11-17T17:55:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/pages/</loc>
     <lastmod>2018-11-17T17:55:00+00:00</lastmod>
   </url>
   
