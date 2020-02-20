@@ -12,18 +12,6 @@
     
     
     <item>
-      <title>Log</title>
-      <link>/log/</link>
-      <pubDate>Tue, 21 Jan 2020 17:15:00 +0000</pubDate>
-      
-      <guid>/log/</guid>
-      <description>2 - 2020-01-27 - Glen Garroch
-Tonight I split the final 10% of my bottle of Glen Garroch with Jen. There&#39;s no more whiskey left in the house, but it had to be done as it would have spoiled if not drank. Honest!
-1 - 2020-01-21 - Beeston - Fourth Night
-I&#39;ve been on the road since Friday evening, and walked the length of the Malverns, climbed many indoor boulder problems in two different cities, slept in three different beds, and now just want to go home.</description>
-    </item>
-    
-    <item>
       <title>Now</title>
       <link>/now/</link>
       <pubDate>Sat, 17 Nov 2018 17:55:00 +0000</pubDate>
@@ -56,6 +44,34 @@ I wear many hats, but these are some of the things that I do:
 An introduction to Poetry, a Python tool to manage packaing and dependecy management that is really quite beautiful.
 Past Talks DevOps Notts August 21st 2019 Test Driven Infrastructure with Molecule Held at Rebel Recruiters, Nottingham.
 A talk and demonstration of Test Driven Infrastructure development using Molecule to control Docker, Ansible, TestInfra, and an assortment of linting tools.</description>
+    </item>
+    
+    <item>
+      <title>2020 02 11</title>
+      <link>/signal/2020-02-11/</link>
+      <pubDate>Tue, 11 Feb 2020 16:43:24 +0000</pubDate>
+      
+      <guid>/signal/2020-02-11/</guid>
+      <description>The sun is setting and I have been toiling away doing some tasks which should be automated for the #dayjob. In about half an hour I&#39;m heading to my local climbing wall to see what they have planned for the year. I don&#39;t know what to expect from Transition Extreme since I&#39;m a relatively new customer of theirs, but I&#39;d like to see the bouldering area enlarged.
+One of my fingers slightly hurts from a finger board session on Sunday, so I won&#39;t be climbing tonight.</description>
+    </item>
+    
+    <item>
+      <title>Glen Garroch</title>
+      <link>/signal/glen-garroch/</link>
+      <pubDate>Mon, 27 Jan 2020 18:26:17 +0000</pubDate>
+      
+      <guid>/signal/glen-garroch/</guid>
+      <description>Tonight I split the final 10% of my bottle of Glen Garroch with Jen. There&#39;s no more whiskey left in the house, but it had to be done as it would have spoiled if not drank. Honest!</description>
+    </item>
+    
+    <item>
+      <title>Beeston - Fourth Night</title>
+      <link>/signal/beeston-nights/</link>
+      <pubDate>Tue, 21 Jan 2020 21:38:27 +0000</pubDate>
+      
+      <guid>/signal/beeston-nights/</guid>
+      <description>I&#39;ve been on the road since Friday evening, and walked the length of the Malverns, climbed many indoor boulder problems in two different cities, slept in three different beds, and now just want to go home.</description>
     </item>
     
     <item>

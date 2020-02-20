@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/log/</loc>
-    <lastmod>2020-01-21T17:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/</loc>
     <lastmod>2019-09-23T12:01:37+01:00</lastmod>
   </url>
@@ -33,23 +28,28 @@
   </url>
   
   <url>
+    <loc>/signal/2020-02-11/</loc>
+    <lastmod>2020-02-11T16:43:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/signal/</loc>
+    <lastmod>2020-02-11T16:43:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/signal/glen-garroch/</loc>
+    <lastmod>2020-01-27T18:26:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/signal/beeston-nights/</loc>
+    <lastmod>2020-01-21T21:38:27+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-    <lastmod>2020-01-21T17:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/log/</loc>
-    <lastmod>2020-01-21T17:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/pages/</loc>
-    <lastmod>2020-01-21T17:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-01-21T17:15:00+00:00</lastmod>
+    <lastmod>2020-01-01T15:46:45+00:00</lastmod>
   </url>
   
   <url>
@@ -59,11 +59,6 @@
   
   <url>
     <loc>/signal/new-year-2020/</loc>
-    <lastmod>2020-01-01T15:46:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/signal/</loc>
     <lastmod>2020-01-01T15:46:45+00:00</lastmod>
   </url>
   
@@ -89,6 +84,11 @@
   
   <url>
     <loc>/tags/life/</loc>
+    <lastmod>2019-09-23T12:01:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2019-09-23T12:01:37+01:00</lastmod>
   </url>
   
@@ -129,6 +129,11 @@
   
   <url>
     <loc>/tags/now/</loc>
+    <lastmod>2018-11-17T17:55:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/pages/</loc>
     <lastmod>2018-11-17T17:55:00+00:00</lastmod>
   </url>
   

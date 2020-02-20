@@ -6,19 +6,10 @@
     <description>Recent content in Categories on Will-Ellwood.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Will Ellwood</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 17:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 15:46:45 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>pages</title>
-      <link>/categories/pages/</link>
-      <pubDate>Tue, 21 Jan 2020 17:15:00 +0000</pubDate>
-      
-      <guid>/categories/pages/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>hidden-signal</title>
@@ -35,6 +26,15 @@
       <pubDate>Mon, 23 Sep 2019 12:01:37 +0100</pubDate>
       
       <guid>/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pages</title>
+      <link>/categories/pages/</link>
+      <pubDate>Sat, 17 Nov 2018 17:55:00 +0000</pubDate>
+      
+      <guid>/categories/pages/</guid>
       <description></description>
     </item>
     
