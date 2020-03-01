@@ -19,7 +19,7 @@
       <guid>/now/</guid>
       <description>This is a &amp;ldquo;now page&amp;rdquo;, and I think they are a good idea.
 As of January 1st 2020:
- I am getting used to working remotely such that it&#39;s now normal for me I have started rock climbing indoors again and am planning some easy adventures for the spring  As of September 23rd 2019:
+ I am getting used to working remotely such that it&amp;rsquo;s now normal for me I have started rock climbing indoors again and am planning some easy adventures for the spring  As of September 23rd 2019:
  I have just moved to Aberdeen, Scotland I am looking to spend a lot more time writing prose and code for myself I am still listening to a lot of Earth  </description>
     </item>
     
@@ -29,7 +29,7 @@ As of January 1st 2020:
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/about/</guid>
-      <description>Hi, I&#39;m Will.
+      <description>Hi, I&amp;rsquo;m Will.
 I wear many hats, but these are some of the things that I do:
  Write code Do things with Linux Play games Brew coffee Drink beer Take photographs, mostly of cats  </description>
     </item>
@@ -40,7 +40,7 @@ I wear many hats, but these are some of the things that I do:
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/talks/</guid>
-      <description>Upcoming Talks Aberdeen Python User&#39;s Group January 8th 2020 Poetry in Python Held at Code Base One, Aberdeen.
+      <description>Upcoming Talks Aberdeen Python User&amp;rsquo;s Group January 8th 2020 Poetry in Python Held at Code Base One, Aberdeen.
 An introduction to Poetry, a Python tool to manage packaing and dependecy management that is really quite beautiful.
 Past Talks DevOps Notts August 21st 2019 Test Driven Infrastructure with Molecule Held at Rebel Recruiters, Nottingham.
 A talk and demonstration of Test Driven Infrastructure development using Molecule to control Docker, Ansible, TestInfra, and an assortment of linting tools.</description>
@@ -52,8 +52,8 @@ A talk and demonstration of Test Driven Infrastructure development using Molecul
       <pubDate>Tue, 11 Feb 2020 16:43:24 +0000</pubDate>
       
       <guid>/hidden-signal/2020-02-11/</guid>
-      <description>The sun is setting and I have been toiling away doing some tasks which should be automated for the #dayjob. In about half an hour I&#39;m heading to my local climbing wall to see what they have planned for the year. I don&#39;t know what to expect from Transition Extreme since I&#39;m a relatively new customer of theirs, but I&#39;d like to see the bouldering area enlarged.
-One of my fingers slightly hurts from a finger board session on Sunday, so I won&#39;t be climbing tonight.</description>
+      <description>The sun is setting and I have been toiling away doing some tasks which should be automated for the #dayjob. In about half an hour I&amp;rsquo;m heading to my local climbing wall to see what they have planned for the year. I don&amp;rsquo;t know what to expect from Transition Extreme since I&amp;rsquo;m a relatively new customer of theirs, but I&amp;rsquo;d like to see the bouldering area enlarged.
+One of my fingers slightly hurts from a finger board session on Sunday, so I won&amp;rsquo;t be climbing tonight.</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@ One of my fingers slightly hurts from a finger board session on Sunday, so I won
       <pubDate>Mon, 27 Jan 2020 18:26:17 +0000</pubDate>
       
       <guid>/hidden-signal/glen-garroch/</guid>
-      <description>Tonight I split the final 10% of my bottle of Glen Garroch with Jen. There&#39;s no more whiskey left in the house, but it had to be done as it would have spoiled if not drank. Honest!</description>
+      <description>Tonight I split the final 10% of my bottle of Glen Garroch with Jen. There&amp;rsquo;s no more whiskey left in the house, but it had to be done as it would have spoiled if not drank. Honest!</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@ One of my fingers slightly hurts from a finger board session on Sunday, so I won
       <pubDate>Tue, 21 Jan 2020 21:38:27 +0000</pubDate>
       
       <guid>/hidden-signal/beeston-nights/</guid>
-      <description>I&#39;ve been on the road since Friday evening, and walked the length of the Malverns, climbed many indoor boulder problems in two different cities, slept in three different beds, and now just want to go home.</description>
+      <description>I&amp;rsquo;ve been on the road since Friday evening, and walked the length of the Malverns, climbed many indoor boulder problems in two different cities, slept in three different beds, and now just want to go home.</description>
     </item>
     
     <item>
@@ -82,9 +82,9 @@ One of my fingers slightly hurts from a finger board session on Sunday, so I won
       <guid>/hidden-signal/new-year-2020/</guid>
       <description>Happy New Year!
 Thank God the old year is over.
-I do not intend to write a end of year wrap up as I did last year. Public reflection isn&#39;t a genre of writing I enjoy contributing to even if I&#39;m a happy voyer of other&#39;s contributions, so this post, as reflective as it is, is in my semi-secret feed.
+I do not intend to write a end of year wrap up as I did last year. Public reflection isn&amp;rsquo;t a genre of writing I enjoy contributing to even if I&amp;rsquo;m a happy voyer of other&amp;rsquo;s contributions, so this post, as reflective as it is, is in my semi-secret feed.
 So last year:
- I didn&#39;t like the UK election results one bit and I&#39;m not hopeful for the future I moved to Scotland I started working as a remote first employee I briefly fell out of love to varying degrees with writing anything either code or prose I started rock climbing again and rediscovered a central metaphor in my life In the last couple of weeks of the year I started free-writing on a daily basis again  I can&#39;t predict what will happen in the coming year, but I can describe some aspirations:</description>
+ I didn&amp;rsquo;t like the UK election results one bit and I&amp;rsquo;m not hopeful for the future I moved to Scotland I started working as a remote first employee I briefly fell out of love to varying degrees with writing anything either code or prose I started rock climbing again and rediscovered a central metaphor in my life In the last couple of weeks of the year I started free-writing on a daily basis again  I can&amp;rsquo;t predict what will happen in the coming year, but I can describe some aspirations:</description>
     </item>
     
     <item>
@@ -104,7 +104,7 @@ The week I’d intended to spend working on the theme was interrupted by working
       <pubDate>Mon, 04 Nov 2019 21:53:50 +0000</pubDate>
       
       <guid>/hidden-signal/theme-delays/</guid>
-      <description>I made a mistake when creating this category of posts. It&#39;s stuck inside a branch I don&#39;t want to commit yet and can&#39;t really be bothered to untangle the mess of files. I&#39;m meant to be working on a new theme for this site and it is taking longer than anticipated because I only put the odd half hour or so in every few weeks.
+      <description>I made a mistake when creating this category of posts. It&amp;rsquo;s stuck inside a branch I don&amp;rsquo;t want to commit yet and can&amp;rsquo;t really be bothered to untangle the mess of files. I&amp;rsquo;m meant to be working on a new theme for this site and it is taking longer than anticipated because I only put the odd half hour or so in every few weeks.
 The same pattern of occasional short bursts is true with my attempts at writing fiction.</description>
     </item>
     
@@ -114,7 +114,7 @@ The same pattern of occasional short bursts is true with my attempts at writing 
       <pubDate>Mon, 23 Sep 2019 12:01:37 +0100</pubDate>
       
       <guid>/posts/aberdeen-i/</guid>
-      <description>Last week I moved northwards to Aberdeen, Scotland. This has been on the cards for a couple of months now, ever since my partner was offered a job in the city. I had intended to write more about the move, but I didn&#39;t really have the capacity to until now.
+      <description>Last week I moved northwards to Aberdeen, Scotland. This has been on the cards for a couple of months now, ever since my partner was offered a job in the city. I had intended to write more about the move, but I didn&amp;rsquo;t really have the capacity to until now.
 The opportunity J has here is significant, so had to be taken, even if it means leaving behind the communities we were involved with, like the Speculators and Tech Nottingham.</description>
     </item>
     
@@ -124,7 +124,7 @@ The opportunity J has here is significant, so had to be taken, even if it means 
       <pubDate>Fri, 02 Aug 2019 19:56:42 +0100</pubDate>
       
       <guid>/hidden-signal/granite-city-one/</guid>
-      <description>I&#39;m sat in The Distilling House, the bar past security at Aberdeen Airport. There&#39;s a last of a glass of Glen Garioch and the remains of a steak sandwich next to me. Jen &amp;amp; I have just visited the city for two nights so we could put boots on the ground here for the first time in five years. (This is our second visit.) She spent about three hours taking with colleagues at her new job, and we both looked at a house to rent.</description>
+      <description>I&amp;rsquo;m sat in The Distilling House, the bar past security at Aberdeen Airport. There&amp;rsquo;s a last of a glass of Glen Garioch and the remains of a steak sandwich next to me. Jen &amp;amp; I have just visited the city for two nights so we could put boots on the ground here for the first time in five years. (This is our second visit.) She spent about three hours taking with colleagues at her new job, and we both looked at a house to rent.</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@ The opportunity J has here is significant, so had to be taken, even if it means 
       
       <guid>/posts/barzun-process/</guid>
       <description>Another year, another short story published. This time the story is called Barzun Process and is available to purchase from Open Polyversity in Open Polyversity, which is available from their Lulu page.
-Maybe I&#39;ll write some detailed notes about the story later, but it&#39;s a weird story for weird people about cyborgs &amp;amp; love. It massively inspired by narrative principles expound by the Nier: Automata director Yoko Taro.</description>
+Maybe I&amp;rsquo;ll write some detailed notes about the story later, but it&amp;rsquo;s a weird story for weird people about cyborgs &amp;amp; love. It massively inspired by narrative principles expound by the Nier: Automata director Yoko Taro.</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@ Maybe I&#39;ll write some detailed notes about the story later, but it&#39;s a w
       <pubDate>Tue, 16 Apr 2019 22:20:06 +0100</pubDate>
       
       <guid>/hidden-signal/test-signal/</guid>
-      <description>The time is 22:23 on a Tuesday evening. I am sat on the sofa with a mug of &amp;ldquo;sleepy tea&amp;rdquo;. My cat has abandoned me for the comfort of the bed. Truly I am reaching middle age in the most pathetic way possible. And I&#39;m writing some sample content for a hidden section of my website instead of heading upstairs to join the cat because apparently this is more important.</description>
+      <description>The time is 22:23 on a Tuesday evening. I am sat on the sofa with a mug of &amp;ldquo;sleepy tea&amp;rdquo;. My cat has abandoned me for the comfort of the bed. Truly I am reaching middle age in the most pathetic way possible. And I&amp;rsquo;m writing some sample content for a hidden section of my website instead of heading upstairs to join the cat because apparently this is more important.</description>
     </item>
     
     <item>
@@ -152,7 +152,7 @@ Maybe I&#39;ll write some detailed notes about the story later, but it&#39;s a w
       <pubDate>Sun, 30 Dec 2018 17:30:42 +0000</pubDate>
       
       <guid>/posts/2018-review/</guid>
-      <description>Prelude For many of my friends 2018 was another cruel year. Personally, I survived without too much damage, but even still I&#39;m fearing 2019, with the threat of a cliff edge Brexit coming a decade after the financial crash which ruined my twenties. Still, we cannot change the past and Brexit, along with other upcoming political disasters, are existential problems, so let us instead review the moments of 2018.
+      <description>Prelude For many of my friends 2018 was another cruel year. Personally, I survived without too much damage, but even still I&amp;rsquo;m fearing 2019, with the threat of a cliff edge Brexit coming a decade after the financial crash which ruined my twenties. Still, we cannot change the past and Brexit, along with other upcoming political disasters, are existential problems, so let us instead review the moments of 2018.
 The Good   I attend Hack24 in March.</description>
     </item>
     

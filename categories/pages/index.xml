@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Home</title>
+      <link>/</link>
+      <pubDate>Sat, 17 Nov 2018 17:55:00 +0000</pubDate>
+      
+      <guid>/</guid>
+      <description>My name is Will and I need to write a better home page content.</description>
+    </item>
+    
+    <item>
       <title>Now</title>
       <link>/now/</link>
       <pubDate>Sat, 17 Nov 2018 17:55:00 +0000</pubDate>
@@ -19,7 +28,7 @@
       <guid>/now/</guid>
       <description>This is a &amp;ldquo;now page&amp;rdquo;, and I think they are a good idea.
 As of January 1st 2020:
- I am getting used to working remotely such that it&#39;s now normal for me I have started rock climbing indoors again and am planning some easy adventures for the spring  As of September 23rd 2019:
+ I am getting used to working remotely such that it&amp;rsquo;s now normal for me I have started rock climbing indoors again and am planning some easy adventures for the spring  As of September 23rd 2019:
  I have just moved to Aberdeen, Scotland I am looking to spend a lot more time writing prose and code for myself I am still listening to a lot of Earth  </description>
     </item>
     
@@ -29,7 +38,7 @@ As of January 1st 2020:
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/about/</guid>
-      <description>Hi, I&#39;m Will.
+      <description>Hi, I&amp;rsquo;m Will.
 I wear many hats, but these are some of the things that I do:
  Write code Do things with Linux Play games Brew coffee Drink beer Take photographs, mostly of cats  </description>
     </item>
@@ -40,7 +49,7 @@ I wear many hats, but these are some of the things that I do:
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/talks/</guid>
-      <description>Upcoming Talks Aberdeen Python User&#39;s Group January 8th 2020 Poetry in Python Held at Code Base One, Aberdeen.
+      <description>Upcoming Talks Aberdeen Python User&amp;rsquo;s Group January 8th 2020 Poetry in Python Held at Code Base One, Aberdeen.
 An introduction to Poetry, a Python tool to manage packaing and dependecy management that is really quite beautiful.
 Past Talks DevOps Notts August 21st 2019 Test Driven Infrastructure with Molecule Held at Rebel Recruiters, Nottingham.
 A talk and demonstration of Test Driven Infrastructure development using Molecule to control Docker, Ansible, TestInfra, and an assortment of linting tools.</description>
