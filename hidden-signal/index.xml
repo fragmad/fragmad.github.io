@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hidden-signal on Will-Ellwood.com</title>
-    <link>/categories/hidden-signal/</link>
-    <description>Recent content in hidden-signal on Will-Ellwood.com</description>
+    <title>Hidden-signals on Will-Ellwood.com</title>
+    <link>/hidden-signal/</link>
+    <description>Recent content in Hidden-signals on Will-Ellwood.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2019 - Will Ellwood</copyright>
-    <lastBuildDate>Mon, 27 Jan 2020 18:26:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 16:43:24 +0000</lastBuildDate>
     
-	<atom:link href="/categories/hidden-signal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/hidden-signal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 02 11</title>
+      <link>/hidden-signal/2020-02-11/</link>
+      <pubDate>Tue, 11 Feb 2020 16:43:24 +0000</pubDate>
+      
+      <guid>/hidden-signal/2020-02-11/</guid>
+      <description>The sun is setting and I have been toiling away doing some tasks which should be automated for the #dayjob. In about half an hour I&#39;m heading to my local climbing wall to see what they have planned for the year. I don&#39;t know what to expect from Transition Extreme since I&#39;m a relatively new customer of theirs, but I&#39;d like to see the bouldering area enlarged.
+One of my fingers slightly hurts from a finger board session on Sunday, so I won&#39;t be climbing tonight.</description>
+    </item>
     
     <item>
       <title>Glen Garroch</title>
@@ -40,6 +50,17 @@ Thank God the old year is over.
 I do not intend to write a end of year wrap up as I did last year. Public reflection isn&#39;t a genre of writing I enjoy contributing to even if I&#39;m a happy voyer of other&#39;s contributions, so this post, as reflective as it is, is in my semi-secret feed.
 So last year:
  I didn&#39;t like the UK election results one bit and I&#39;m not hopeful for the future I moved to Scotland I started working as a remote first employee I briefly fell out of love to varying degrees with writing anything either code or prose I started rock climbing again and rediscovered a central metaphor in my life In the last couple of weeks of the year I started free-writing on a daily basis again  I can&#39;t predict what will happen in the coming year, but I can describe some aspirations:</description>
+    </item>
+    
+    <item>
+      <title>Finally</title>
+      <link>/hidden-signal/finally/</link>
+      <pubDate>Sun, 01 Dec 2019 18:26:17 +0000</pubDate>
+      
+      <guid>/hidden-signal/finally/</guid>
+      <description>Finally!
+I have finally finished a version of my site’s theme which I’m happy with. It isn’t anything special and it isn’t anything fancy, but it’s mine, so falls firmly into the if I break it I fix it way of things, which is exactly what I want this site.
+The week I’d intended to spend working on the theme was interrupted by working on another site I manage and then week on-call.</description>
     </item>
     
     <item>
