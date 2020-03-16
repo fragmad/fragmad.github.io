@@ -4,7 +4,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2019-09-23T12:01:37+01:00</lastmod>
+    <lastmod>2020-03-16T21:11:29+00:00</lastmod>
   </url>
   
   <url>
@@ -28,22 +28,52 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-03-01T19:32:54+00:00</lastmod>
+    <loc>/categories/blog/</loc>
+    <lastmod>2020-03-16T21:11:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/hidden-signal/frustrations/</loc>
-    <lastmod>2020-03-01T19:32:54+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2020-03-16T21:11:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/climbing/</loc>
+    <lastmod>2020-03-16T21:11:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-16T21:11:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/training/</loc>
+    <lastmod>2020-03-16T21:11:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/training-in-isolation/</loc>
+    <lastmod>2020-03-16T21:11:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hidden-signal/3march20202/</loc>
+    <lastmod>2020-03-03T15:17:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/hidden-signal/</loc>
-    <lastmod>2020-03-01T19:32:54+00:00</lastmod>
+    <lastmod>2020-03-03T15:17:29+00:00</lastmod>
   </url>
   
   <url>
     <loc>/hidden-signal/</loc>
+    <lastmod>2020-03-03T15:17:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hidden-signal/frustrations/</loc>
     <lastmod>2020-03-01T19:32:54+00:00</lastmod>
   </url>
   
@@ -83,17 +113,7 @@
   </url>
   
   <url>
-    <loc>/categories/blog/</loc>
-    <lastmod>2019-09-23T12:01:37+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/life/</loc>
-    <lastmod>2019-09-23T12:01:37+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-09-23T12:01:37+01:00</lastmod>
   </url>
   
